@@ -6,3 +6,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Google Data Analytics: Capstone](#google-data-analytics-capstone)
 - SQL (on going)
 ## Google Data analytics: Capstone
+| Project Link | Tools | Project Description | 
+|---|---|---|---|
